@@ -1,0 +1,15 @@
+{
+  "name": "express_assignment",
+  "version": "1.0.0",
+  "description": "express server for post, get, put and delete requests",
+  "main": "index.js",
+  "author": "Joshua Mensah",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
